@@ -4,18 +4,18 @@
 }
 
 .nav {
-    background-color: rgb(114, 3, 3);
+    background-color: #eff300;
     height: 50px;
     display: flex;
     align-items: center;
 }
 
 .main {
-    background-color: blanchedalmond;
+    background-color: #04ad04;
 }
 
 .lista {
-    background-color: aqua;
+    background-color: #eff300;
     list-style: none;
     display: flex;
     justify-content: space-around;
@@ -24,7 +24,7 @@
 }
 
 .titulo {
-    background-color: brown;
+    background-color: #eff300;
     display: flex;
     margin: 0 auto;
     padding: 20px;
@@ -32,7 +32,7 @@
 }
 
 .subtitulo {
-    background-color: blue;
+    background-color: #04ad04;
     display: flex;
     margin: 0 auto;
     padding: 20px;
@@ -45,19 +45,19 @@
 }
 
 .lista6 {
-    background-color: rgb(112, 112, 17);
+    background-color: #1f6e00;
     display: flex;
     flex-direction: column;
     list-style: none;
     justify-content: space-around;
     align-items: flex-start;
-    width: 70%;
+    width: 50%;
     margin: 0 auto;
 
 }
 
 .ul6 {
-    background-color: rgb(3, 63, 43);
+    background-color: #1f6e00;
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -76,5 +76,5 @@
 .imgindex {
     display: flex;
     margin: 0 auto;
-    width: 100%;
+    width: 75%;
 }
