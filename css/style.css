@@ -78,3 +78,12 @@
     margin: 0 auto;
     width: 75%;
 }
+
+.footer {
+    display: flex;
+    background-color: #04ad04;
+}
+
+.footerp {
+    margin: 0 auto;
+}
