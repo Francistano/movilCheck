@@ -79,6 +79,14 @@
     width: 75%;
 }
 
+.observaciones {
+    display: flex;
+    margin: 20px auto;
+    min-width: 50%;
+    min-height: fit-content;
+    text-align: initial;
+}
+
 .footer {
     display: flex;
     background-color: #04ad04;
