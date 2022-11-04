@@ -12,6 +12,7 @@
 
 .main {
     background-color: #04ad04;
+    min-height: 85vh;
 }
 
 .lista {
